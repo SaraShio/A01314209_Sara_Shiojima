@@ -1,0 +1,17 @@
+.main{
+background-image: url(../public/background-images/backgroundMountain.jpg);
+height: 100vh;
+width: 100vw;
+ background-size: cover;
+  background-repeat:no-repeat;
+  background-position:center;
+}
+
+
+
+.content{
+    display: flex;
+    flex-direction: ;
+    justify-content: center;
+    align-items: center;
+}

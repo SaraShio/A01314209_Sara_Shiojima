@@ -1,0 +1,10 @@
+.navbar{
+    display: flex;
+    position: relative;
+}
+
+.nav_icon{
+    width: 3rem;
+    display: flex;
+    flex-direction: row-reverse;
+}

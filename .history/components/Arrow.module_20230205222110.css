@@ -1,0 +1,8 @@
+.arrow{
+    color: pink;
+}
+
+
+.arrow > a > span > img{
+    width: 10px;
+}

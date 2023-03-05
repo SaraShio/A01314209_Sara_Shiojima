@@ -1,0 +1,39 @@
+:root{
+  --beige:#f9e8d8;
+  --black: #000000;
+  --background-teal: #053330;
+
+  --primary-color: #fff;
+  --secondary-color: #f4d6b9;
+  --ternary-color: #7796A4;
+  --quaternary-color: #14343d;
+  --quinary-color: rgba(16,46,53,0.5);
+  }
+  
+  
+html,
+body {
+  padding: 0;
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
+    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+@media (prefers-color-scheme: dark) {
+  html {
+    color-scheme: dark;
+  }
+  body {
+    color: white;
+    background: black;
+  }
+}

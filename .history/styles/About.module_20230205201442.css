@@ -1,0 +1,7 @@
+#carouselImage{
+    height: 200px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    justify-content: c;
+}

@@ -1,0 +1,13 @@
+.arrow{
+    bottom:10vh;
+    right: 6vw;
+    display: flex;
+    flex-direction: column;
+    
+}
+
+
+.arrow > a > span > img{
+    width: 1rem;
+}
+

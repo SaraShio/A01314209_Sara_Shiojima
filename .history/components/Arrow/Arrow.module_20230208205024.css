@@ -1,0 +1,10 @@
+.arrow{
+    bottom:10vh;
+    right: 6
+}
+
+
+.arrow > a > span > img{
+    width: 1rem;
+}
+

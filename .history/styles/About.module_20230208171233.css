@@ -1,0 +1,52 @@
+.main{
+    background-color: var(--background-teal);
+    margin-top: none;
+
+}
+
+.carouselImage{
+    height: 200px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 40px 0px;
+}
+
+.carousel{
+
+}
+
+
+.testOnImageHere{
+    background-color:var;
+    padding: 10px;
+    margin: 0px 50px;
+}
+
+.heading{
+
+}
+
+.subHeader{
+
+}
+
+.smallSubHeader{
+
+}
+
+
+.line{
+    
+}
+
+.information{
+
+}
+
+.paragraphs{
+
+
+}

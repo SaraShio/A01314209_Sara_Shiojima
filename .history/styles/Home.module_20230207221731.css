@@ -1,0 +1,27 @@
+:root{
+--beige:#f9e8d8;
+)
+
+
+.main{
+background-image: url(../public/background-images/backgroundMountain.jpg);
+height: 100vh;
+width: 100vw;
+ background-size: cover;
+  background-repeat:no-repeat;
+  background-position:center;
+}
+
+
+
+.content{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: left;
+}
+
+.button{
+background-color: transparent;
+border: 1rem solid var(--beige);
+}

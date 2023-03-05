@@ -1,0 +1,55 @@
+.main{
+    background-color: var(--teal);
+height: 100vh;
+}
+
+.carouselImage{
+    height: 200px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 40px 0px;
+}
+
+.carousel{
+
+}
+
+.testOnImageHere{
+    background-color: rgba(16, 46, 53, 0.5);
+    padding: 10px;
+    margin: 0px 50px;
+}
+
+.header{
+display: flex;
+justify-content: center;
+align-items: center;
+}
+
+.subHeader{
+
+}
+
+.smallSubHeader{
+
+}
+
+
+.line{
+    width: 20rem;
+    height: 0.5rem;
+    background-color: var(--primary-color);
+    border: none;
+}
+
+.information{
+
+}
+
+.paragraphs{
+
+
+}

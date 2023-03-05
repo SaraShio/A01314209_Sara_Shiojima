@@ -1,0 +1,11 @@
+.navbar{
+    display: flex;
+    position: relative;
+}
+
+.nav_icon{
+    width: 3rem;
+    top: 1rem;
+    right: 1rem;
+    position: absolute;
+}

@@ -1,0 +1,60 @@
+.main{
+    background-color: var(--teal);
+
+}
+
+.carouselImage{
+    height: 200px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 40px 0px;
+}
+
+.carousel{
+
+}
+
+.testOnImageHere{
+    background-color: rgba(16, 46, 53, 0.5);
+    padding: 10px;
+    margin: 0px 50px;
+}
+
+.header{
+display: flex;
+justify-content: center;
+align-items: center;
+}
+
+.line{
+    width: 30rem;
+    height: 0.25rem;
+    background-color: var(--beige);
+    border: none;
+}
+
+.information{
+display: flex;
+justify-content: center;
+flex-direction: column;
+margin: 10rem 20rem;
+}
+
+.paragraphs{
+
+
+}
+
+.departments{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.departmentName>li{
+    listt
+}
